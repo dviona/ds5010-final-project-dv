@@ -33,7 +33,6 @@ ds5010-final-project/
 ├── helpers.py                 # Reusable ecological classification functions (Q1–Q5)
 ├── config.py                  # Color palette, species/area name mappings, matplotlib rcParams
 ├── soil_lookup.py             # Soil type → USFS ELU → climatic/geological zone mapping
-├── data/                      # Dataset (fetched via ucimlrepo or local CSV)
 ├── presentation/              # Video presentation slides and exported figures
 ├── requirements.txt           # Python dependencies
 └── README.md
