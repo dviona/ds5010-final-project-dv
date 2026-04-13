@@ -11,9 +11,7 @@ An exploratory data analysis of 581,012 forest land parcels in Colorado's Roosev
 
 ## About the Project
 
-Most analyses of the Covertype dataset treat it as a classification benchmark — load the data, run a model, report accuracy. This project takes a different approach: it treats the dataset as an **ecological field study**, asking not just *what* patterns exist, but *why* they exist.
-
-Every question is interpreted through the lens of forest ecology — explaining species distributions using concepts like elevational zonation, microclimate effects of slope aspect, soil-moisture relationships, and ecological niche theory. This perspective comes from nearly three years of experience operating production environmental monitoring systems at the Washington Department of Fish and Wildlife.
+This project treats the dataset as an **ecological field study**, asking not just *what* patterns exist, but *why* they exist. Every question is interpreted through the lens of forest ecology — explaining species distributions using concepts like elevational zonation, microclimate effects of slope aspect, soil-moisture relationships, and ecological niche theory.
 
 ---
 ## The Seven Cover Types
