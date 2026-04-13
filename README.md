@@ -16,6 +16,18 @@ Most analyses of the Covertype dataset treat it as a classification benchmark �
 Every question is interpreted through the lens of forest ecology — explaining species distributions using concepts like elevational zonation, microclimate effects of slope aspect, soil-moisture relationships, and ecological niche theory. This perspective comes from nearly three years of experience operating production environmental monitoring systems at the Washington Department of Fish and Wildlife.
 
 ---
+## The Seven Cover Types
+
+| # | Species | Elevation | Habitat | Key Trait |
+|---|---------|-----------|---------|-----------|
+| 1 | **Spruce/Fir** | 2,700–3,300m | Subalpine | Shade-tolerant, dense canopy, thin bark vulnerable to fire |
+| 2 | **Lodgepole Pine** | 2,400–3,200m | Subalpine | Generalist colonizer, serotinous cones opened by fire heat |
+| 3 | **Ponderosa Pine** | 1,800–2,500m | Montane | Fire-adapted, thick orange bark, prefers warm south-facing slopes |
+| 4 | **Cottonwood/Willow** | 1,800–2,400m | Riparian | Obligate riparian, needs shallow groundwater, rarest cover type |
+| 5 | **Aspen** | 2,200–3,000m | Montane–Subalpine | Clonal reproduction via root suckers, pioneer after disturbance |
+| 6 | **Douglas-fir** | 2,000–2,700m | Montane | Prefers cool north-facing slopes, mid-shade tolerance |
+| 7 | **Krummholz** | 3,200m+ | Alpine treeline | Not a species but a growth form — wind-stunted trees at treeline |
+
 
 ## Highlights
 
