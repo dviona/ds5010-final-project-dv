@@ -26,6 +26,21 @@ This project treats the dataset as an **ecological field study**, asking not jus
 | 6 | **Douglas-fir** | 2,000–2,700m | Montane | Prefers cool north-facing slopes, mid-shade tolerance |
 | 7 | **Krummholz** | 3,200m+ | Alpine treeline | Not a species but a growth form — wind-stunted trees at treeline |
 
+## The Seven Cover Types
+
+| | | |
+|:---:|:---:|:---:|
+| ![Spruce/Fir](images/sprucefir.jpg) | ![Lodgepole Pine](images/lodgepole.jpg) | ![Ponderosa Pine](images/ponderosa.jpg) |
+| **1. Spruce/Fir** | **2. Lodgepole Pine** | **3. Ponderosa Pine** |
+| Dense subalpine canopy | Straight, uniform post-fire stands | Thick orange bark, open understory |
+| | | |
+| ![Cottonwood/Willow](images/cottonwood.jpg) | ![Aspen](images/aspen.jpg) | ![Douglas-fir](images/douglasfir.jpg) |
+| **4. Cottonwood/Willow** | **5. Aspen** | **6. Douglas-fir** |
+| Riparian, follows streams | White bark, clonal groves | Cool north-facing slopes |
+| | | |
+| ![Krummholz](images/krummholz.jpg) | | |
+| **7. Krummholz** | | |
+| Wind-stunted trees at treeline | | |
 
 ## Highlights
 
